@@ -1,0 +1,11 @@
+Package: coordgeneratr
+Type: Package
+Title: Generates random coordinates within a bounding box
+Version: 0.1.0
+Author: Asimbongeni Dhlodhlo
+Maintainer: Asimbongeni Dhlodhlo <asimbongeni@gmail.com>
+Description: This package generates random geographic coordinates within a geographic bounding box
+License: GPL-3
+imports: rjson, magrittr' leaflet
+Encoding: UTF-8
+LazyData: true
