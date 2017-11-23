@@ -6,6 +6,6 @@ Author: Asimbongeni Dhlodhlo
 Maintainer: Asimbongeni Dhlodhlo <asimbongeni@gmail.com>
 Description: This package generates random geographic coordinates within a geographic bounding box
 License: GPL-3
-imports: rjson, magrittr' leaflet
+imports: rjson, magrittr
 Encoding: UTF-8
 LazyData: true
